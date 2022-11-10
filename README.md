@@ -1,7 +1,7 @@
 # Holux Responsive Real Estate Website
 Holux is a landing page for a real estate agency. The landing page contains the latest properties with their prices and locations, contact information about the agency
 
-**Link to project**: [https://loquacious-biscuit-0f70ed.netlify.app/]("https://loquacious-biscuit-0f70ed.netlify.app//")
+**Link to project**: [https://radiant-brigadeiros-687dc0.netlify.app/]("https://radiant-brigadeiros-687dc0.netlify.app//")
 
 ![project preview](preview.png)
 
